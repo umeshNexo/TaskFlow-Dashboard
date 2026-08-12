@@ -14,7 +14,7 @@ Make sure the following are installed on your computer before running the projec
 1. Clone the GitHub repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/umeshNexo/TaskFlow-Dashboard.git
    ```
 
 2. Open the project folder in a terminal or an editor like VS Code:
