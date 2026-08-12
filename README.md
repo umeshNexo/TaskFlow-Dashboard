@@ -9,11 +9,19 @@ Make sure the following are installed on your computer before running the projec
 - Node.js (v18 or newer recommended)
 - npm (usually included with Node.js)
 
-## How to Install and Run (Zip File)
+## How to Install and Run (Git Repository)
 
-1. Download the project zip file and extract it to a folder on your computer.
+1. Clone the GitHub repository:
 
-2. Open a terminal or command prompt in the extracted project folder or open folder in Editor like VScode etc.
+   ```bash
+   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   ```
+
+2. Open the project folder in a terminal or an editor like VS Code:
+
+   ```bash
+   cd <PROJECT_FOLDER_NAME>
+   ```
 
 3. Install the dependencies:
 
@@ -28,6 +36,13 @@ Make sure the following are installed on your computer before running the projec
    ```
 
 5. Open the app in your browser at:
+
+   ```text
+   http://localhost:5173
+   ```
+
+   The exact URL will also be displayed in the terminal after running `npm run dev`.
+
 
 ## Features
 
